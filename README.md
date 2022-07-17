@@ -12,9 +12,11 @@ In the first terminal
 - cd server and create a .env file in the root of your server directory.
 - supply the mongoDB uri with **MONGO_URI** as key
 - install packages using following command and start the server
-
+<code>
 $ npm install (to install server-side dependencies)
 $ node server (to start the server)
+</code>
+
 
 In the second terminal
 - cd client 
